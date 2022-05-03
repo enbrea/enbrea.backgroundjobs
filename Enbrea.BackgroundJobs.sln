@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enbrea.BackgroundJobs", "src\Enbrea.BackgroundJobs.csproj", "{84DA59DA-3477-442C-AA2D-43ADF5228846}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enbrea.BackgroundJobs.Tests.XUnit", "test\xunit\Enbrea.BackgroundJobs.Tests.XUnit.csproj", "{81924CED-12F9-4FBE-B84C-5907FDAA092C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84DA59DA-3477-442C-AA2D-43ADF5228846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DA59DA-3477-442C-AA2D-43ADF5228846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DA59DA-3477-442C-AA2D-43ADF5228846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DA59DA-3477-442C-AA2D-43ADF5228846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81924CED-12F9-4FBE-B84C-5907FDAA092C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81924CED-12F9-4FBE-B84C-5907FDAA092C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81924CED-12F9-4FBE-B84C-5907FDAA092C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81924CED-12F9-4FBE-B84C-5907FDAA092C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C31F66-C8AA-4EB8-9A0F-524CC5F59E62}
+	EndGlobalSection
+EndGlobal
