@@ -5,7 +5,7 @@
 
 A .NET library for queueing and executing long running background jobs:
 
-+ Supports .NET 6 and .NET 7.
++ Supports .NET 6, .NET 7 and .NET 8.
 + Based on [Microsoft.Extensions.Hosting.BackgroundService](https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.backgroundservice).
 + Implements a thread-safe job queue. You can have as many job queues as you like.
 + Implementing a custom background job is easy, just implement the IBackgroundJob interface.
